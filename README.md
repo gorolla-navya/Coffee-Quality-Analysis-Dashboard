@@ -23,7 +23,7 @@ This project uses Microsoft Power BI to explore coffee quality data and understa
 ![Defect Analysis](CQ_Defects_DB_ss.png)
 
 ### 5. What-If Analysis
-![What-If Analysis](CQ_WhatIf_DB_ss.png)
+![What-If Analysis](CQ_Whatif_DB_ss.png)
 
 ## Key Learnings
 Through this project, I practiced organizing data into meaningful visuals, comparing coffee quality indicators, exploring defect patterns, and presenting insights through an interactive Power BI report.
